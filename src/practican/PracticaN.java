@@ -63,6 +63,7 @@ public class PracticaN extends javax.swing.JFrame {
     private void btnActivarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnActivarActionPerformed
         lblMensaje1.setText("Hola...");
         lblMensaje2.setText("Como te va...");
+        lblMensaje3.setText("Estoy bien...");
     }//GEN-LAST:event_btnActivarActionPerformed
 
     /**
